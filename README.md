@@ -1,7 +1,7 @@
 # Intro-to-GitHub-Workshop
 Materials from a 2023 "Intro to GitHub" workshop at New Mexico State University 
 
-Co-hosted by [Dr. Erica Christensen](https://github.com/emchristensen) on 31 March 2023 and presented to the Dept. of Fish, Wildlife, and Conservation Ecology. 
+Co-hosted by [Dr. Theresa Laverty](https://github.com/theresalaverty) and [Dr. Erica Christensen](https://github.com/emchristensen) on 31 March 2023 and presented to the Dept. of Fish, Wildlife, and Conservation Ecology. 
 
 Prior to the workshop, participants were asked to complete the following steps:
 1. [Create a GitHub account](https://happygitwithr.com/github-acct.html)  
