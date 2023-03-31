@@ -10,9 +10,3 @@ Prior to the workshop, participants were asked to complete the following steps:
 2. [Install and/or update R and RStudio](https://happygitwithr.com/install-r-rstudio.html)
     + We interface with Git in RStudio, so please make sure you have both R and RStudio. 
 3. [Install Git on your computer](https://happygitwithr.com/install-git.html) 
-4. [Introduce yourself to Git](https://happygitwithr.com/hello-git.html) 
-    + Only worry about the steps above 7.1.  
-    + Use the email address associated with your GitHub account!  
-5. [Set up a personal access token for HTTPS](https://happygitwithr.com/https-pat.html)
-    + Follow instructions for 9.1. There are more details in sections 9.3–9.4 if needed. 
-    + Save your personal access token somewhere on your computer. You won’t be able to see this token again, so don’t close or navigate away from it until you store the token locally. 
