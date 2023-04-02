@@ -17,4 +17,4 @@ Prior to the workshop, participants were asked to complete the following steps:
     + Follow instructions for 9.1. There are more details in sections 9.3–9.4 if needed. 
     + Save your personal access token somewhere on your computer. You won’t be able to see this token again, so don’t close or navigate away from it until you store the token locally. 
     
-In the Documents folder, you will find the slides and recording (divided into three parts) from our workshop on 31 March 2023. We included useful links throughout the slides. Hopefully, you can revisit these materials if you need a refresher working with GitHub.
+Workshop materials: In the Documents folder, you will find the slides and recording (divided into three parts) from our workshop on 31 March 2023. We included useful links throughout the slides. We hope that you can revisit these materials if you need a refresher down the road. Thanks for your participation!
