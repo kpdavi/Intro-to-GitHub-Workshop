@@ -16,3 +16,7 @@ Prior to the workshop, participants were asked to complete the following steps:
 5. [Set up a personal access token for HTTPS](https://happygitwithr.com/https-pat.html)
     + Follow instructions for 9.1. There are more details in sections 9.3–9.4 if needed. 
     + Save your personal access token somewhere on your computer. You won’t be able to see this token again, so don’t close or navigate away from it until you store the token locally. 
+    
+Workshop materials: In the Documents folder, you will find the slides and recording (divided into three parts) from our workshop on 31 March 2023. We included useful links throughout the slides. We hope that you can revisit these materials if you need a refresher down the road. Thanks for your participation!
+
+One step that we forgot to review was updating your forked repository to match the master branch. You can find instructions on how to sync your forked repository [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
